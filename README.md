@@ -19,7 +19,7 @@
 </details>
 
 ## ⭐ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
-[![My Skills](https://skillicons.dev/icons?i=git,postman,html,css,js,nodejs,spring,java,gradle,mysql,mongodb,redis,vscode,idea,windows,linux&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,html,css,js,nodejs,spring,java,gradle,mysql,mongodb,redis,cassandra,vscode,idea,windows,linux&perline=10&theme=dark)](https://skillicons.dev)
 
 <details>
   <summary>⚛ 𝙵𝚞𝚝𝚞𝚛𝚎 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</summary>
